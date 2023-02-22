@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-imgFinder-training/static/css/main.155adf5b.css",
+    "main.js": "/react-imgFinder-training/static/js/main.fc94a0ce.js",
+    "index.html": "/react-imgFinder-training/index.html",
+    "main.155adf5b.css.map": "/react-imgFinder-training/static/css/main.155adf5b.css.map",
+    "main.fc94a0ce.js.map": "/react-imgFinder-training/static/js/main.fc94a0ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155adf5b.css",
+    "static/js/main.fc94a0ce.js"
+  ]
+}
